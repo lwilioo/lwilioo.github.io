@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(233, 212, 247);
+}
+.be{
+    width: 200px;
+    height: 250px;
+}
+h1{
+    color: crimson;
+    margin: 30px;
+}
+h2{
+    color: rgb(243, 96, 128);
+    text-decoration: underline;
+    margin: 15px;
+}
+.container{
+    display: flex;
+}
+.block1{
+ padding: 15px;
+}
+.block2{
+ padding: 15px;
+}
+.block3{
+ padding: 15px;
+}
